@@ -1,2 +1,2 @@
-# CPSC-355
+# CPSC-355 - Computing Machinery I
 Computing Machinery I - ARMv8 Assembly and C programming with Assembly Assignments
